@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Who I am and a short history
 
-You can use the [editor on GitHub](https://github.com/JohanAtterfors/JohanAtterfors.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a computer science and engineering student at Chalmers
+Teknsika högskola in Gothenburg Sweden. In the spring of 2021 I will start
+my bachelor's thesis in ecosystem simultaions at the CSE department.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before I began studying I did a winter as a ski instructor in Austria. In
+November 2020 I extended  my certificate to a Landeschilehrer 1, a level 2
+certificate in Austria.
+
+I got my upper secondary qualification from Berzeliusskolan in Linköping
+Sweden at a technical programme. 
 
 ### Markdown
 
