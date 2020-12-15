@@ -9,14 +9,19 @@ November 2020 I extended  my certificate to a Landeschilehrer 1, a level 2
 certificate in Austria.
 
 I got my upper secondary qualification from Berzeliusskolan in Linköping
-Sweden at a technical programme. 
+Sweden at a technical programme.
 
-### Markdown
+# Academic career so far
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here follows a comprehensive list of all university courses I have taken and
+my grades, followed by a rounded GPA.
 
-```markdown
-Syntax highlighted code block
+### Year 1
+```
+Introduction to discrete mathematics, 3
+Introduction to functional programming, 3
+```
+
 
 # Header 1
 ## Header 2
@@ -31,7 +36,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
