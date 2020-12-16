@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Welcome to Johan's homepage
 description: A place to learn more about me and what I do!
+
+github:
+  is_project_page: false
