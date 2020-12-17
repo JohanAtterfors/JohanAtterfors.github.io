@@ -5,8 +5,10 @@ permalink: /edu
 
 ## Academic career so far
 
-Here follows a comprehensive list of all university courses I have taken and
-my grades, followed by a rounded GPA.
+Here follows a comprehensive list of all passed university courses I have taken and
+my grades, followed by a rounded GPA.Currently working on my undergrad towards
+a BSc in computer science and engineering and will start my MSc in the fall of
+2021. The programme of choice is Algorithms, Languages and Logic.
 
 ### Year 1
 ```
@@ -38,3 +40,12 @@ Transforms, signals and systems, 5
 Principles of concurrent programming, 4
 ```
 Approximate GPA = `4.1`.
+
+Courses to come:
+```
+Control theory
+Sustainable development and ethics in computer science
+Multivariable calculus
+History of science
+BSc in CSE department in ecosystem simulation
+```
