@@ -14,3 +14,8 @@ certificate in Austria.
 
 I got my upper secondary qualification from Berzeliusskolan in Linköping
 Sweden at a technical programme.
+
+### This webpage is under development
+Please see the Github [repo](https://github.com/JohanAtterfors/JohanAtterfors.github.io)
+for more information and updates. A guide will appear when I have the time on
+how you can create a similar website with [Github Pages](https://pages.github.com).
