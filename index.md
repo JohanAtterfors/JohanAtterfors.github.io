@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Who I am and a short history
 
 I am currently a computer science and engineering student at Chalmers
