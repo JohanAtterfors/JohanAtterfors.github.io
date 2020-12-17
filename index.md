@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "About Me"
-permalink: /me
 ---
 
 ## Who I am and a short history
