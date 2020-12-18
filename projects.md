@@ -7,6 +7,10 @@ permalink: /projects
 
 guide to come...
 
+## Documentation on using multiple Git account on one machine
+
+guide to come...
+
 ## Algorithms on the PYNQ boards
 
-Have not started. Will start spring 2021 when the cash is back in. 
+Have not started. Will start spring 2021 when the cash is back in.
