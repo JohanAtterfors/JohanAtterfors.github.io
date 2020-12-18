@@ -48,7 +48,7 @@ With the vi command: to inter text press i (insert) and to exit and save user co
 Int the config file write:
 ```
 # Default account
-Host github.com
+Host github.com-JohanAtterfors
   HostName github.com
   User git
   IdentityFile ~/.ssh/id_rsa
@@ -59,13 +59,10 @@ Host github.com-account1
   User git
   IdentityFile ~/.ssh/id_rsa_account1
 
-Host *
-  AddKeysToAgent yes
-  UseKeychain yes
 ```
 
 Host * will match to anything and make sure keychain is enabled. Please see SSH
-config documentation for more info. 
+config documentation for more info.
 ## Algorithms on the PYNQ boards
 
 Have not started. Will start spring 2021 when the cash is back in.
