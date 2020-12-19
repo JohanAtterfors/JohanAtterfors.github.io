@@ -48,7 +48,7 @@ With the vi command: to inter text press i (insert) and to exit and save user co
 Int the config file write:
 ```
 # Default account
-Host github.com-JohanAtterfors
+Host github.com-home
   HostName github.com
   User git
   IdentityFile ~/.ssh/id_rsa
@@ -60,9 +60,25 @@ Host github.com-account1
   IdentityFile ~/.ssh/id_rsa_account1
 
 ```
+#### 5. Configure .gitconfig
+To let Git know which configuration to use in which folder. Depending on which
+is your "default" it will slightly be different. I have a "school" directory and all
+other folders are "home". In the `~/.gitconfig` I have the following setup:
+```
+[user]
+	name = HomeUsername
+	email = HomeUsername@email.com
+[includeIf "gitdir:~/School/"]
+	path = ~/School/.gitconfig
+```
+In the School directory add a .gitconfig with touch and add:
+```
+[user]
+  name = SchoolUsername
+  email = SomeEmail@email.com
+```
+Test the setup using `ssh -T github.com-home`.
 
-Host * will match to anything and make sure keychain is enabled. Please see SSH
-config documentation for more info.
 ## Algorithms on the PYNQ boards
 
 Have not started. Will start spring 2021 when the cash is back in.
