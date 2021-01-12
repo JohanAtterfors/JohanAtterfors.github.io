@@ -8,7 +8,7 @@ permalink: /edu
 Here follows a comprehensive list of all passed university courses I have taken and
 my grades, followed by a rounded GPA.Currently working on my undergrad towards
 a BSc in computer science and engineering and will start my MSc in the fall of
-2021. The programme of choice is Algorithms, Languages and Logic.
+2021\. The programme of choice is Algorithms, Languages and Logic.
 
 ### Year 1
 ```
