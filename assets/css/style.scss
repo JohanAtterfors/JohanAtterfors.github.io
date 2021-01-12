@@ -3,19 +3,16 @@
 
 @import "{{ site.theme }}";
 
-#nav ul {
+ul.nav {
 	list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-	text-decoration:none;
 }
-#nav li {
-	float: left;
-	list-style-type: none;
-	text-decoration:none;
+ul.nav li {
+	float:left;
 }
-#nav li a {
+ul.nav li a {
 	text-decoration:none;
 	list-style-type: none;
 	display: block;
@@ -23,7 +20,7 @@
 	padding: 0px 30px;
 	text-align: center;
 }
-#nav li a:hover{
+ul.nav li a:hover{
 	background-color: #111111;
 }
 #project_title a:link {
