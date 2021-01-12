@@ -6,7 +6,7 @@ permalink: /me
 My life mostly entails physical activity, learning and spending time with the
 people I love. I am an avid reader and someone who cannot give up on a
 problem until it is solved. My next adventure will hopefully be a return to
-my beloved alp this winter, hit me up if you want in!
+my beloved alps this winter, hit me up if you want in!
 
 Much of my time when not spent studying is spent on running and an active life.
 I have been running most my life along with skiing. Some of the best times of
