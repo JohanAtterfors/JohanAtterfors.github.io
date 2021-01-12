@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Who I am and a short history
-
+<img align="right" width="30%" height="30%" src="/assets/images/IMG_6559.png">
 I am currently a computer science and engineering student at Chalmers
 Teknsika högskola in Gothenburg Sweden. In the spring of 2021 I will start
 my bachelor's thesis in ecosystem simulations at the CSE department.
