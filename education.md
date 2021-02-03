@@ -38,14 +38,13 @@ Electrical circuits and fields, 3
 ```
 Transforms, signals and systems, 5
 Principles of concurrent programming, 4
+Control Theory, 5
+Sustainable development and ethics in computer science, G
 ```
 Approximate GPA = `4.1`.
 
-Courses to come:
+Currently active courses:
 ```
-Control theory
-Sustainable development and ethics in computer science
 Multivariable calculus
-History of science
-BSc in CSE department in ecosystem simulation
+BSc at CSE department in ecosystem simulation
 ```
