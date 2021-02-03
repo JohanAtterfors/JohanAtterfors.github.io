@@ -2,5 +2,4 @@
 layout: default
 permalink: /work
 ---
-
-<embed src="assets/pdfs/cv_eng.pdf" type="application/pdf" width="100%" height="600px" />
+<iframe src="assets/pdfs/cv_eng.pdf#toolbar=0" width="100%" height="500px"> </iframe>

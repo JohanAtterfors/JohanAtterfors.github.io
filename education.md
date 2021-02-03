@@ -6,9 +6,19 @@ permalink: /edu
 ## Academic career so far
 
 Here follows a comprehensive list of all passed university courses I have taken and
-my grades, followed by a rounded GPA.Currently working on my undergrad towards
-a BSc in computer science and engineering and will start my MSc in the fall of
-2021\. The programme of choice is Algorithms, Languages and Logic.
+my grades, followed by a rounded GPA. Grade scale is shown first. Note that
+grading scales cannot be directly translated between 3-4-5 and G-VG-MVG. I am
+currently working on my undergrad towards a BSc in computer science and engineering and will start
+my MSc in the fall of 2021\. The programme of choice is Algorithms, Languages
+and Logic. (Only possible grades in Sustainable development are G and U)
+
+### Grade scale for Chalmers
+```
+U - fail
+3 / G - pass
+4 / VG - pass with credit
+5 / MVG - pass with distinction
+```
 
 ### Year 1
 ```
